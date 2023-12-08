@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\ControlCenter.exe.config
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\ControlCenter.exe
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\ControlCenter.pdb
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\obj\Debug\ControlCenter.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\obj\Debug\ControlCenter.Form1.resources
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\obj\Debug\ControlCenter.Properties.Resources.resources
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\obj\Debug\ControlCenter.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\obj\Debug\ControlCenter.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\obj\Debug\ControlCenter.exe
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\obj\Debug\ControlCenter.pdb
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\AForge.Video.dll
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\AForge.dll
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\AForge.Video.xml
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\AForge.xml
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\obj\Debug\ControlCenter.csproj.CopyComplete
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\Python.Runtime.dll
+C:\Users\danie\source\repos\ControlCenter\ControlCenter\bin\Debug\Python.Runtime.xml
